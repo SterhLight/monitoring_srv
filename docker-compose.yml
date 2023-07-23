@@ -8,7 +8,7 @@ services:
       - grafana-datasources:/etc/grafana/datasources
       - grafana-dashboards:/etc/grafana/dashboards
       - grafana-plugins:/var/lib/grafana/plugins
-    environment:
+    environment: # just an example of adding variables. it can be skipped.
       - GF_SECURITY_ADMIN_USER=admin
       - GF_SECURITY_ADMIN_PASSWORD=admin
     ports:
