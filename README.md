@@ -18,5 +18,5 @@ https://github.com/SterhLight/monitoring_srv.git
 
 Чтобы запустить установку:
 ```
-docker-compose up
+docker-compose up -d
 ```
