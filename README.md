@@ -12,7 +12,7 @@
 
 Клонировать репозиторий
 ```
-https://github.com/SterhLight/monitoring_srv.git
+git clone https://github.com/SterhLight/monitoring_srv.git
 ```
 ### Шаг 2
 
